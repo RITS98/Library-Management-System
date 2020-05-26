@@ -24,4 +24,5 @@ To create a simply yet effective Library Management System prototype (later soft
 •	Any IDE for creating the program (or prototype) (Used CodeBlocks)
 •	Programming Language Used: C++
 
+![img](https://user-images.githubusercontent.com/51791113/82878480-29c67880-9f59-11ea-933c-b4e37c2c93b6.JPG)
 
